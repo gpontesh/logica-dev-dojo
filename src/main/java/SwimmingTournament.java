@@ -1,7 +1,13 @@
+import java.util.Scanner;
+
 public class SwimmingTournament {
     public static void main(String[] args) {
-        String name = "Gustavo";
-        int age = 25;
+        Scanner input = new Scanner(System.in);
+
+        System.out.print("Digite o nome do competidor: ");
+        String name = input.next();
+        System.out.print("Digite a idade do competidor: ");
+        int age = input.nextInt();
 
         if (age < 0){
             System.out.println("Idade incorreta");
