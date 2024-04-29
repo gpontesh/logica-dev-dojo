@@ -1,4 +1,4 @@
-package academy.devdojo.conditionalstructures;
+package academy.devdojo.conditionalstructures.ifelse;
 
 public class ConditionalClassOne {
     public static void main(String[] args) {
