@@ -1,3 +1,5 @@
+package academy.devdojo.conditionalstructures;
+
 public class IncomeTax {
     public static void main(String[] args) {
         double salary = 10850;

@@ -1,3 +1,5 @@
+package academy.devdojo.conditionalstructures;
+
 public class CalculateSalaryPercentageUsingIf {
     public static void main(String[] args) {
         float salary = 4700.5f;

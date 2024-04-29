@@ -1,3 +1,5 @@
+package academy.devdojo.conditionalstructures;
+
 public class ConditionalClassOne {
     public static void main(String[] args) {
         boolean condition = true;

@@ -1,3 +1,5 @@
+package academy.devdojo.conditionalstructures;
+
 public class NumberOddOrEven {
     public static void main(String[] args){
         int number = 201;

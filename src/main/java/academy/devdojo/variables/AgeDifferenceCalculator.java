@@ -1,3 +1,5 @@
+package academy.devdojo.variables;
+
 public class AgeDifferenceCalculator {
     public static void main(String [] args){
         int firstAge = 40;

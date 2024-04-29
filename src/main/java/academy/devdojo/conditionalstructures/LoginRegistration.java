@@ -1,3 +1,5 @@
+package academy.devdojo.conditionalstructures;
+
 import java.util.Scanner;
 
 public class LoginRegistration {

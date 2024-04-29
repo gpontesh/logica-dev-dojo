@@ -1,3 +1,5 @@
+package academy.devdojo.variables;
+
 public class CalculateSalaryPercentage {
     public static void main(String[] args){
         float salary = 2541.36f;

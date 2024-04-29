@@ -1,3 +1,5 @@
+package academy.devdojo.variables;
+
 public class PercentageCalculationWithReusableVariable {
     public static void main(String[] args){
         float salary = 5000;
